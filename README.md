@@ -28,15 +28,15 @@ Currently, I’m exploring the intersection of **Embedded Systems, IoT, and AI/M
 ---
 
 ### 📈 GitHub Stats
-[![Manthan's GitHub stats](https://github-readme-stats.vercel.app/api?username=manthangourshete&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manthangourshete&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Manthan's GitHub stats](https://github-readme-stats.vercel.app/api?username=GManthan&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GManthan&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
 ### 🌐 Connect with Me
 📫 **Email:** manthangourshete@gmail.com  
 💼 **LinkedIn:** [linkedin.com/in/manthangourshete](https://linkedin.com/in/manthangourshete)  
-📁 **Portfolio:** *(Coming Soon)*  
+📁 **Portfolio:** mantex.me  
 
 > “I enjoy learning something new every day — especially when it involves building or coding something that actually moves, connects, or makes a difference.”
 
