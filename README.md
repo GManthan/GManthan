@@ -35,7 +35,7 @@ Currently, I’m exploring the intersection of **Embedded Systems, IoT, and AI/M
 
 ### 🌐 Connect with Me
 📫 **Email:** manthangourshete@gmail.com  
-💼 **LinkedIn:** [linkedin.com/in/manthangourshete](https://linkedin.com/in/manthangourshete)  
+💼 **LinkedIn:** [linkedin.com/in/manthangourshete](https://linkedin.com/in/manthan-gourshete)  
 📁 **Portfolio:** [mantex.me](https://www.mantex.me/)  
 
 > “I enjoy learning something new every day — especially when it involves building or coding something that actually moves, connects, or makes a difference.”
