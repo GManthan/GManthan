@@ -28,8 +28,8 @@ Currently, I’m exploring the intersection of **Embedded Systems, IoT, and AI/M
 ---
 
 ### 📈 GitHub Stats
-[![Manthan's GitHub stats](https://github-readme-stats.vercel.app/api?username=manthangourshete&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manthangourshete&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Manthan's GitHub stats](https://github-readme-stats.vercel.app/api?username=GManthan&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GManthan&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
