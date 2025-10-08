@@ -21,7 +21,7 @@ Currently, I’m exploring the intersection of **Embedded Systems, IoT, and AI/M
 
 ### 🚀 What I’m Currently Working On
 - Developing an **AI-integrated Sign Language Project** to bridge communication gaps using edge AI.  
-- Exploring **STM32 and ESP32** for real-time embedded applications.  
+- Exploring **STM32 and RasberryPi** for real-time embedded applications.  
 - Building a **portfolio website** to showcase my work and projects.  
 - Diving deeper into **core electronics, robotics, and web technologies**.
 
@@ -34,7 +34,7 @@ Currently, I’m exploring the intersection of **Embedded Systems, IoT, and AI/M
 ---
 
 ### 🌐 Connect with Me
-📫 **Email:** manthangourshete@gmail.com  
+📫 **Email:** manthancg23@gmail.com  
 💼 **LinkedIn:** [linkedin.com/in/manthangourshete](https://linkedin.com/in/manthan-gourshete)  
 📁 **Portfolio:** [mantex.me](https://www.mantex.me/)  
 
