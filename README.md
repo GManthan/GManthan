@@ -28,8 +28,8 @@ Currently exploring the intersection of **Embedded Systems, IoT, and Edge AI**, 
 ---
 
 ### 📊 GitHub Stats
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manthangourshete&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manthangourshete&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GManthan&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GManthan&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
@@ -42,4 +42,4 @@ Currently exploring the intersection of **Embedded Systems, IoT, and Edge AI**, 
 
 ---
 
-⭐️ From [@manthangourshete](https://github.com/manthangourshete)
+⭐️ From [@GManthan](https://github.com/GManthan)
