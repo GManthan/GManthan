@@ -1,7 +1,7 @@
 # 👋 Hey there, I'm Manthan Gourshete
 
-I’m an **engineering student** passionate about building **smart systems** that connect **electronics, AI, and software**.  
-Currently exploring the intersection of **Embedded Systems, IoT, Robotics, and Edge AI**, where code meets circuits.
+I'm an **engineering student** who loves building **smart systems** where **electronics, AI, and software** meet.
+Currently exploring **Embedded Systems, IoT, Robotics, and Edge AI** — the space where code meets circuits.
 
 ---
 
@@ -19,27 +19,28 @@ Currently exploring the intersection of **Embedded Systems, IoT, Robotics, and E
 
 ---
 
-### 🚀 What I’m Working On
-- 🧠 **AI-integrated Sign Language Project** – bridging communication gaps with edge AI  
-- 🤖 **Building intelligent robotic systems** using AI and embedded control  
-- ⚙️ **Exploring STM32 and Raspberry Pi** for real-time embedded applications  
-- 🌐 **Creating my personal portfolio** to showcase work and open-source projects  
-- 🔬 **Learning advanced robotics, AI, and core electronics**  
+### 🚀 What I'm Working On
+- 🏭 **Debug Engineer Intern @ Jabil** – PCB-level debugging and failure analysis on high-speed baseband boards
+- ⚙️ **Technical Lead @ Lets Grow Ventures** – leading embedded automation solutions for enterprise clients
+- 🧠 **AI-integrated Sign Language Project** – bridging communication gaps with edge AI
+- 🤖 Building intelligent robotic systems using AI and embedded control
+- 🔬 Exploring STM32 and Raspberry Pi for real-time embedded applications
+- 🌐 Building out my personal portfolio to showcase projects and open-source work
 
 ---
 
 ### 📊 GitHub Stats
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GManthan&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)  
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GManthan&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GManthan&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
 ### 🌐 Connect with Me
-📫 **Email:** [manthancg23@gmail.com](mailto:manthancg23@gmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/manthan-gourshete](https://linkedin.com/in/manthan-gourshete)  
+📫 **Email:** [manthancg23@gmail.com](mailto:manthancg23@gmail.com)
+💼 **LinkedIn:** [linkedin.com/in/manthan-gourshete](https://linkedin.com/in/manthan-gourshete)
 🖥️ **Portfolio:** [mantex.me](https://mantex.me)
 
-> “I learn something new every day — especially when it builds, connects, or automates.”
+> "I learn something new every day — especially when it builds, connects, or automates."
 
 ---
 
